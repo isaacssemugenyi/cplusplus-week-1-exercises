@@ -9,6 +9,11 @@
 #include <utility>
 #include <variant>
 #include <vector>
+#include <algorithm>
+#include <cctype>
+#include <cstdlib>
+#include <iomanip>
+#include <sstream>
 
 // ---- Name assignment (variables and constants) ------------------------------
 
